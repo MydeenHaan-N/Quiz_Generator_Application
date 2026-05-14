@@ -1,0 +1,33 @@
+# Sample Wikipedia URLs for Testing
+
+## Technology
+https://en.wikipedia.org/wiki/Python_(programming_language)
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Machine_learning
+https://en.wikipedia.org/wiki/React_(software)
+
+## History
+https://en.wikipedia.org/wiki/World_War_II
+https://en.wikipedia.org/wiki/Ancient_Rome
+https://en.wikipedia.org/wiki/Renaissance
+
+## Science
+https://en.wikipedia.org/wiki/Quantum_mechanics
+https://en.wikipedia.org/wiki/DNA
+https://en.wikipedia.org/wiki/Theory_of_relativity
+
+## Biography
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Marie_Curie
+https://en.wikipedia.org/wiki/Leonardo_da_Vinci
+
+## Geography
+https://en.wikipedia.org/wiki/Mount_Everest
+https://en.wikipedia.org/wiki/Amazon_rainforest
+https://en.wikipedia.org/wiki/Pacific_Ocean
+
+## Other Interesting Topics
+https://en.wikipedia.org/wiki/Cryptography
+https://en.wikipedia.org/wiki/Space_exploration
+https://en.wikipedia.org/wiki/Olympic_Games
